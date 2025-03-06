@@ -1,0 +1,13 @@
+Pos,Team/Player,Matches,Innings,Runs,Balls Faced,Strike Rate,Highest Score
+1,Kyle Jamieson,2,1,9,4,225.00,9*
+2,Glenn Phillips,3,3,94,75,125.33,61
+3,Rachin Ravindra,2,2,118,117,100.85,112
+4,Tom Latham,3,3,187,200,93.50,118*
+5,Mitchell Santner,3,1,28,31,90.32,28
+6,Will Young,3,3,129,154,83.76,107
+7,Michael Bracewell,3,3,13,17,76.47,11*
+8,Kane Williamson,3,3,87,126,69.04,81
+9,Devon Conway,2,2,40,62,64.51,30
+10,Matt Henry,3,1,2,4,50.00,2
+11,Will O'Rourke,3,1,1,2,50.00,1
+12,Daryl Mitchell,2,2,27,59,45.76,17

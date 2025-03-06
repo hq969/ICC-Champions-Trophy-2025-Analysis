@@ -1,0 +1,9 @@
+Player,Team,Over,Over Odds,Under,Under Odds
+HE van der Dussen,South Africa,31.5,1.83,31.5,1.83
+R Rickelton,South Africa,30.5,1.83,30.5,1.83
+T Bavuma,South Africa,30.5,1.83,30.5,1.83
+DJ Mitchell,New Zealand,31.5,1.83,31.5,1.83
+KS Williamson,New Zealand,37.5,1.83,37.5,1.83
+MJ Henry,New Zealand,39.5,1.83,39.5,1.83
+MJ Santner,New Zealand,38.5,1.83,38.5,1.83
+WA Young,New Zealand,30.5,1.83,30.5,1.83

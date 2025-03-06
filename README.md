@@ -1,30 +1,53 @@
-# ICC Champions Trophy 2025 Watch on Crictime/Smartcric/Cricfree
-
-Watch ICC Champions Trophy 2025 live on Crictime! Enjoy free HD cricket streaming with English and Hindi commentary. Don't miss a moment of the action!
-
-## ⏬🌐🌐📌⬇ [Watch ICC Champion Trophy 2025](https://cricfyhd.com/) ⬇📌🌐🌐⏬
-
-|![ICC-Champions-Trophy-2025](https://github.com/user-attachments/assets/eb0c49aa-ae7e-4ae0-a94f-0153617a517c)| 
-
-Fans in more than 80 territories can watch via ICC tv and free audio of all 15 matches is available via the ICC match centre globally.
-
-Each match will be a blockbuster as eight teams gear up to participate in the ninth edition of the Champions Trophy which will be held in Pakistan and UAE across 19 days.
-
-Comprehensive coverage of the ICC Men’s Champions Trophy is available globally through the ICC’s Broadcast and Audio partners.
-
-## How to Watch Champions Trophy 2025 on CricHD TV
-
-CricHD TV is a popular website for free live sports streaming. It works on phones, tablets, and computers. Here’s how to watch Champions Trophy 2025 matches easily:
-
-<ul>
-<li>Open your browser and type cricfyhd.com.</li>
-<li>Find the Champions Trophy 2025 match link on the homepage.</li>
-<li>Choose a channel like Star Sports Live or Willow TV from the list.</li>
-</ul>
-
-### When and where will the ICC Champions Trophy 2025 be held?
-
-The ICC Champions Trophy 2025 is scheduled to take place in Pakistan. The exact dates and venues will be confirmed by the ICC, but the tournament is expected to be held between February and March 2025.
+<img src="https://www.sacricketmag.com/wp-content/uploads/2024/11/Champions-Trophy-logo-1024x464.jpg" alt="ICC Champions Trophy logo" width="200">
 
 
+# ICC Champions Trophy - Semis and Final Results Outcome
+ 
 
+## Overview  
+This project aims to consolidate and analyze data from various sources related to the **ICC Champions Trophy**, specifically focusing on India's performance. It includes datasets, dashboards, and insights derived from sources like **Wikipedia, Google, Cricbuzz, and Kaggle**.  
+
+---
+
+## Data Collection  
+| Source     | Description | Method | Link |
+|------------|-------------------------|------------------|--------------------------------------------------|
+| **Wikipedia** | Previous Winners | From Web | [ICC Champions Trophy - Wikipedia](https://en.wikipedia.org/wiki/ICC_Champions_Trophy) |
+| **Google** | General Search | Copy & Paste / Web Scraper | [Champions Trophy - Google Search](https://www.google.com/search?q=champions+trophy) |
+| **Kaggle** | Cricket Dataset (1998-2017) | Direct Download | [ICC Champions Trophy Cricket Dataset](https://www.kaggle.com/) |
+| **Cricbuzz** | Points Table | Direct Table Query | [ICC Champions Trophy 2025 Points Table](https://www.cricbuzz.com/) |
+
+
+---
+
+## Project Structure  
+### Folders  
+- **Hobbies > Projects** → Project Directory  
+- **Datasets**  
+  - **Match-Level Data**  
+  - **Ball-by-Ball Data**  
+
+### Dashboard  
+- **Main Thread:** `n464`  
+- **Nodes & Edges Mapped for Analysis**  
+
+### Points Table  
+- **Source:** Cricbuzz  
+- **Query Type:** Direct Table Extraction  
+
+---
+
+## Data Extraction Methods  
+- `From Web` → Wikipedia-based scraping  
+- `Copy & Paste / Web Scraper` → Google Tables  
+- `Direct Table Query` → Cricbuzz Points Table
+
+
+commit points 
+---
+
+## Markdown & Power BI Syntax Used  
+- **Markdown Syntax for Titles & Subtitles:**  
+  ```md
+  # ICC Champions Trophy - India Chapter
+  ## Keeping Tabs on Indian Match Statistics
